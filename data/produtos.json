@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "nome": "Nootebook",
+        "descrição": "nootebook Dell inspiron 15 polegadas",
+        "preço": 2500.00,
+        "quantidade": 15,
+        "categoria": "Tech"
+    },
+
+        {
+        "id":2,
+        "nome": "Mouse Sem fio",
+        "descrição": "Mouse optico sem fio 2.4GHZ",
+        "preço": 89.90,
+        "quantidade": 40,
+        "categoria": "Perifericos"
+    },
+
+        {
+        "id":3,
+        "nome": "Teclado mecanico",
+        "descrição": "Teclado mecanico RGB ABNT2",
+        "preço": 349.00,
+        "quantidade": 20,
+        "categoria": "Perifericos"
+    }
+]
